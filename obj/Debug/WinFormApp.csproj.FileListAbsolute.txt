@@ -1,0 +1,11 @@
+E:\projects\SQL\WinFormApp\bin\Debug\WinFormApp.exe.config
+E:\projects\SQL\WinFormApp\bin\Debug\WinFormApp.exe
+E:\projects\SQL\WinFormApp\bin\Debug\WinFormApp.pdb
+E:\projects\SQL\WinFormApp\obj\Debug\WinFormApp.csproj.AssemblyReference.cache
+E:\projects\SQL\WinFormApp\obj\Debug\WinFormApp.csproj.SuggestedBindingRedirects.cache
+E:\projects\SQL\WinFormApp\obj\Debug\WinFormApp.LoginForm.resources
+E:\projects\SQL\WinFormApp\obj\Debug\WinFormApp.Properties.Resources.resources
+E:\projects\SQL\WinFormApp\obj\Debug\WinFormApp.csproj.GenerateResource.cache
+E:\projects\SQL\WinFormApp\obj\Debug\WinFormApp.csproj.CoreCompileInputs.cache
+E:\projects\SQL\WinFormApp\obj\Debug\WinFormApp.exe
+E:\projects\SQL\WinFormApp\obj\Debug\WinFormApp.pdb
