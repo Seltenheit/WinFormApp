@@ -9,7 +9,7 @@ namespace WinFormApp
 {
     internal class DB
     {
-        MySqlConnection connection = new MySqlConnection("server=localhost;port=3306;username=root;password=root;databse=appdb");
+        MySqlConnection connection = new MySqlConnection("server=localhost;port=3306;username=root;password=root;database=appdb; SSL Mode = None");
         public void openConnection()
         {
             if(connection.State == System.Data.ConnectionState.Open)
